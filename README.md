@@ -1,15 +1,6 @@
 # loan-application
 
-## Description
-
-This is a simple loan application system built with nextjs, expressjs, mongoDB and typescript.
-Users can can register for loans and the pre assessment data is simulated based on the balance sheet which is randomly generated.
-
-> Please note that as the backend is hosted under a free tier, the server may have some issues waking up or with cors. That doesn't mean the code is not working. Please clone the repository and try running it locally.
-
 ## Application overview
-
-### System Components
 
 **1. Frontend**
 
@@ -19,6 +10,7 @@ The frontend of the loan application system is responsible for creating an intui
 
 - User Name
 - Email Address
+  
   **Business Information:**
 - Business name
 - Year established
